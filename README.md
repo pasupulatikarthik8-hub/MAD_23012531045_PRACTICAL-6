@@ -5,9 +5,5 @@ Describing: In this project, an Android app is developed to showcase two types o
 <img width="1478" height="901" alt="image" src="https://github.com/user-attachments/assets/19e0cec7-af7d-4b74-85a2-0e94521601ab" />
 
 
-<img width="1478" height="901" alt="image" src="https://github.com/user-attachments/assets/6616be23-379a-44bb-bdc4-a33a8b82201b" />
-
-
-<img width="1478" height="901" alt="image" src="https://github.com/user-attachments/assets/f183904a-6d47-4e9b-b4cd-00bc45e98e00" />
 
 
